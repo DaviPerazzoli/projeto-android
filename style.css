@@ -50,7 +50,7 @@ div#titulo{
 }
 
 div#titulo p{
-    width: 500px;
+    max-width: 500px;
     text-align: center;
     text-indent: 0px;
     margin: auto;
